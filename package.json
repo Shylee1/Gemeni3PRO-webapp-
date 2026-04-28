@@ -19,7 +19,7 @@
     "lucide-react": "latest",
     "recharts": "^2.10.3",
     "twilio": "^4.19.0",
-    "nodemailer": "^6.9.7",
+    "nodemailer": "^7.0.12",
     "clsx": "^2.0.0",
     "tailwind-merge": "^2.0.0"
   },
